@@ -1,0 +1,66 @@
+body
+{
+background-image:url('http://upload.wikimedia.org/wikipedia/commons/f/fe/Lake_Placid_-_Mirror_Lake.jpg');
+background-color:#cccccc;
+background-size:cover;
+background-repeat:no-repeat;
+}
+.main {
+    background-color:rgba(0, 0, 0, 0.5);
+    color:white;
+    font-family:Times New Roman;
+    text-align:center;
+}
+a:link {
+    color:#ADEBFF;
+}
+.nav {
+    background-color:rgba(0, 0, 0, 0.5);
+    font-size:18pt;
+    text-align:center;
+    
+}
+.attractions {
+    font-size:18pt;
+    font-style:italic;
+    color:white;
+    font-family:Impact;
+    text-shadow: -1px 4px 3px #ADEBFF;
+    text-align:center;
+    
+}
+.article {
+    background-color:rgba(0, 0, 0, 0.5);
+        color:white;
+    margin-left:25px;
+    margin-right:25px;
+}
+.poster {
+    max-width:65%;
+    max-height:65%;
+    display: block;
+    margin-left: 25px;
+    margin-right: auto;
+}
+.torch {
+     max-width:75%;
+    max-height:75%;
+    position:relative;
+    left:36%;
+    bottom:75%
+    
+        
+}
+.school {
+    max-width:96%;
+    max-height:100%;
+    margin-left: 25px;
+    margin-right:25px;
+}
+.p {
+    margin-left:25px;
+    margin-right:25px
+}
+.p1 {
+    text-align:center;
+}
