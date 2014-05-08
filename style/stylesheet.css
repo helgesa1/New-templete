@@ -4,6 +4,9 @@ background-image:url('https://drive.google.com/uc?id=0ByZtawMKUTb1ZzBpSGFhMG9Wd0
 background-color:#cccccc;
 background-size:contain;
 }
+a:link {
+    color:#ADEBFF;
+}
 .saranac {
     max-width:100%;
     max-height:100%;
@@ -27,9 +30,7 @@ background-size:contain;
     text-shadow: 4px 4px 6px green;
 }
 .nav {
-    color:white;
     font-size:18pt;
-    text-shadow: 4px 4px 6px blue;
     text-align:center;
 }
 .article {
